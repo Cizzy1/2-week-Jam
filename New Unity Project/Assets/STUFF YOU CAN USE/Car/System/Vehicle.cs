@@ -199,6 +199,7 @@ public class Vehicle : MonoBehaviour{
 		
 	}
 	
+	//jummp
 	public void ControlJump(){
 		
 		if(!controllable){ return; }
