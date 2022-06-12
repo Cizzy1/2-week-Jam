@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.45143384, g: 0.500733, b: 0.571292, a: 1}
+  m_IndirectSpecularColor: {r: 0.45143354, g: 0.5007326, b: 0.57129157, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -5209,6 +5209,10 @@ PrefabInstance:
       value: cliff_blockHalf_rock (9)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -5633,6 +5637,10 @@ PrefabInstance:
       value: cliff_blockHalf_rock (11)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -5864,6 +5872,10 @@ PrefabInstance:
       value: cliff_blockHalf_rock (7)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -5940,6 +5952,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a7e44dfb72f1c3c43a525ebe8539040a, type: 3}
       propertyPath: m_Name
       value: cliff_half_rock
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a7e44dfb72f1c3c43a525ebe8539040a, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a7e44dfb72f1c3c43a525ebe8539040a, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -6088,6 +6104,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tile_low
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
 --- !u!1 &283229662
@@ -6188,6 +6208,10 @@ PrefabInstance:
       value: tile_low (11)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -6259,6 +6283,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
       propertyPath: m_Name
       value: tile_low (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
@@ -6527,6 +6555,10 @@ PrefabInstance:
       value: cliff_blockHalf_rock (8)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -6603,6 +6635,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
       propertyPath: m_Name
       value: tile_low (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
@@ -6988,6 +7024,10 @@ PrefabInstance:
       value: cliff_blockHalf_rock
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -7207,6 +7247,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tile_low (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
 --- !u!1 &582171143 stripped
@@ -7322,6 +7366,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: shop 1
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1c592432c8e583d42ad916eb388bce58, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1c592432c8e583d42ad916eb388bce58, type: 3}
 --- !u!4 &589393362 stripped
@@ -7421,6 +7469,10 @@ PrefabInstance:
       value: cliff_blockHalf_rock (5)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -7497,6 +7549,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a18c26824915a5e4b8032648c944f4c8, type: 3}
       propertyPath: m_Name
       value: road_drivewaySingle
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a18c26824915a5e4b8032648c944f4c8, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a18c26824915a5e4b8032648c944f4c8, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -7577,6 +7633,10 @@ PrefabInstance:
       value: cliff_blockHalf_rock (2)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -7592,6 +7652,54 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: a7e44dfb72f1c3c43a525ebe8539040a, type: 3}
   m_PrefabInstance: {fileID: 976857561}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &662170268
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 662170271}
+  - component: {fileID: 662170269}
+  m_Layer: 0
+  m_Name: CaptureDetect
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &662170269
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 662170268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d00b3633261aed44ca8ab2a3cb544741, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AlfieMask:
+    serializedVersion: 2
+    m_Bits: 256
+  test: {r: 1, g: 0, b: 0, a: 1}
+  maxDis: 5
+--- !u!4 &662170271
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 662170268}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.35, z: 2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7445201889909153965}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &685875424 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 50a9456529711884daf6e008cddebc61, type: 3}
@@ -7891,6 +7999,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a7e44dfb72f1c3c43a525ebe8539040a, type: 3}
       propertyPath: m_Name
       value: cliff_half_rock (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a7e44dfb72f1c3c43a525ebe8539040a, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a7e44dfb72f1c3c43a525ebe8539040a, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8571,6 +8683,10 @@ PrefabInstance:
       value: cliff_half_rock (1)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a7e44dfb72f1c3c43a525ebe8539040a, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a7e44dfb72f1c3c43a525ebe8539040a, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -8642,6 +8758,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
       propertyPath: m_Name
       value: tile_low (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -8784,6 +8904,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: f0cf93f13e8e4594798a9f2046e5adaf, type: 3}
       propertyPath: m_Name
       value: cliff_halfCornerInner_rock
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f0cf93f13e8e4594798a9f2046e5adaf, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f0cf93f13e8e4594798a9f2046e5adaf, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9071,6 +9195,10 @@ PrefabInstance:
       value: cliff_blockHalf_rock (6)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -9299,6 +9427,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 39054be39784c824292c34bab5ccf2e6, type: 3}
       propertyPath: m_Name
       value: construction_pylon (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 39054be39784c824292c34bab5ccf2e6, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 39054be39784c824292c34bab5ccf2e6, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9683,6 +9815,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tile_low (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
 --- !u!1001 &1301035910
@@ -9828,6 +9964,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
       propertyPath: m_Name
       value: cliff_blockHalf_rock (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -9991,6 +10131,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
       propertyPath: m_Name
       value: cliff_blockHalf_rock (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -10191,6 +10335,10 @@ PrefabInstance:
       value: construction_barrier (1)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: efab06e414a3e9140bd34f877b8e785e, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: efab06e414a3e9140bd34f877b8e785e, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -10263,9 +10411,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: tile_low (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
---- !u!1 &1383730869
+--- !u!1 &1405271722
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -10273,94 +10425,115 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1383730873}
-  - component: {fileID: 1383730872}
-  - component: {fileID: 1383730871}
-  - component: {fileID: 1383730870}
-  m_Layer: 0
-  m_Name: Test cube
+  - component: {fileID: 1405271723}
+  - component: {fileID: 1405271725}
+  - component: {fileID: 1405271724}
+  - component: {fileID: 1405271726}
+  - component: {fileID: 1405271727}
+  m_Layer: 5
+  m_Name: Timer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!65 &1383730870
-BoxCollider:
+--- !u!224 &1405271723
+RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1383730869}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!23 &1383730871
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1383730869}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
---- !u!33 &1383730872
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1383730869}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!4 &1383730873
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1383730869}
+  m_GameObject: {fileID: 1405271722}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.1, y: 9.96, z: 11.61}
-  m_LocalScale: {x: 2.3002, y: 2.3002, z: 2.3002}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.60896, y: 0.60896, z: 0.60896}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_Father: {fileID: 1445648449}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: 0, y: -60}
+  m_SizeDelta: {x: 160, y: 30}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1405271724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1405271722}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 35b9358d97cd90546b9602a5edda136c, type: 3}
+    m_FontSize: 164
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 1
+    m_MaxSize: 300
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 1
+    m_VerticalOverflow: 1
+    m_LineSpacing: 1
+  m_Text: 05:00
+--- !u!222 &1405271725
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1405271722}
+  m_CullTransparentMesh: 1
+--- !u!114 &1405271726
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1405271722}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cee9a4907169b4b4d94280b919e6eecf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timertext: {fileID: 1405271724}
+  timeRemaining: 300
+  FlashingRed: {fileID: 1405271727}
+  FailScreen: {fileID: 0}
+  timeIn: {fileID: 0}
+--- !u!95 &1405271727
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1405271722}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c1303122e1cbb3049b9b7ca01d7e2d36, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1406830943
 GameObject:
   m_ObjectHideFlags: 0
@@ -10370,7 +10543,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1406830944}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Map
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10631,7 +10804,7 @@ RectTransform:
   - {fileID: 1715722893}
   - {fileID: 1330276446}
   - {fileID: 2058260043}
-  - {fileID: 1581944060}
+  - {fileID: 1405271723}
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -10742,6 +10915,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 39054be39784c824292c34bab5ccf2e6, type: 3}
       propertyPath: m_Name
       value: construction_pylon
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 39054be39784c824292c34bab5ccf2e6, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 39054be39784c824292c34bab5ccf2e6, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -11212,86 +11389,15 @@ PrefabInstance:
       value: cliff_halfCorner_rock
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: d80a197bb99f45843bf1a35e5e331a02, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d80a197bb99f45843bf1a35e5e331a02, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d80a197bb99f45843bf1a35e5e331a02, type: 3}
---- !u!1 &1581944059
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1581944060}
-  - component: {fileID: 1581944062}
-  - component: {fileID: 1581944061}
-  m_Layer: 5
-  m_Name: Image
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1581944060
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1581944059}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3.7933285, y: 1.5682, z: 1.5682}
-  m_Children: []
-  m_Father: {fileID: 1445648449}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 1, y: 0.5}
-  m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -960, y: 463}
-  m_SizeDelta: {x: 100, y: 100}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1581944061
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1581944059}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.3137255}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 0}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &1581944062
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1581944059}
-  m_CullTransparentMesh: 1
 --- !u!1 &1596572198 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
@@ -11460,6 +11566,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: tile_low (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
 --- !u!1 &1674729681
@@ -11563,7 +11673,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 97ea9e0b96275174780917d2b3a5783b, type: 3}
       propertyPath: m_Layer
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 97ea9e0b96275174780917d2b3a5783b, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12374,6 +12484,10 @@ PrefabInstance:
       value: road_drivewaySingle (2)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a18c26824915a5e4b8032648c944f4c8, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a18c26824915a5e4b8032648c944f4c8, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -12633,6 +12747,10 @@ PrefabInstance:
       value: construction_barrier
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: efab06e414a3e9140bd34f877b8e785e, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: efab06e414a3e9140bd34f877b8e785e, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -12704,6 +12822,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
       propertyPath: m_Name
       value: tile_low (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12801,6 +12923,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
       propertyPath: m_Name
       value: cliff_blockHalf_rock (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -12950,6 +13076,10 @@ PrefabInstance:
       value: tile_low (10)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -13021,6 +13151,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a18c26824915a5e4b8032648c944f4c8, type: 3}
       propertyPath: m_Name
       value: road_drivewaySingle (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a18c26824915a5e4b8032648c944f4c8, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: a18c26824915a5e4b8032648c944f4c8, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13101,6 +13235,10 @@ PrefabInstance:
       value: cliff_blockHalf_rock (4)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0d35ad045e637644697b08f508fd4c86, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
       objectReference: {fileID: 0}
@@ -13177,6 +13315,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2910078a0e76cfe4dbe8849223d123d0, type: 3}
       propertyPath: m_Name
       value: road_bendSidewalk
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2910078a0e76cfe4dbe8849223d123d0, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2910078a0e76cfe4dbe8849223d123d0, type: 3}
       propertyPath: m_StaticEditorFlags
@@ -13370,14 +13512,14 @@ RectTransform:
   m_GameObject: {fileID: 2058260042}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.09334338, y: 9.421875, z: 1}
+  m_LocalScale: {x: 0.09334338, y: 11.306251, z: 1}
   m_Children: []
   m_Father: {fileID: 1445648449}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -86.53}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2058260044
@@ -13393,7 +13535,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 0.3137255}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.7176471}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -13678,6 +13820,10 @@ PrefabInstance:
       value: construction_barrier (2)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: efab06e414a3e9140bd34f877b8e785e, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: efab06e414a3e9140bd34f877b8e785e, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
@@ -13749,6 +13895,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
       propertyPath: m_Name
       value: tile_low (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 573d76eaa240c7e4baa84389cf83f0d8, type: 3}
@@ -25998,6 +26148,7 @@ Transform:
   - {fileID: 4208507281777746922}
   - {fileID: 7445201889957202326}
   - {fileID: 7445201890823337490}
+  - {fileID: 662170271}
   m_Father: {fileID: 7445201889431714848}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -26031,8 +26182,6 @@ GameObject:
   - component: {fileID: 7445201889909153960}
   - component: {fileID: 7445201889909153966}
   - component: {fileID: 7445201889909153964}
-  - component: {fileID: 7445201889909153972}
-  - component: {fileID: 7445201889909153971}
   m_Layer: 2
   m_Name: vehicle
   m_TagString: Untagged
@@ -26040,36 +26189,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!65 &7445201889909153971
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7445201889909153970}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 2.69, y: 1.59, z: 2.71}
-  m_Center: {x: 0, y: -0.41, z: 2.59}
---- !u!114 &7445201889909153972
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7445201889909153970}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d00b3633261aed44ca8ab2a3cb544741, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  box: {fileID: 7445201889909153971}
-  Height: 5
-  AlfieMask:
-    serializedVersion: 2
-    m_Bits: 256
 --- !u!198 &7445201889957202320
 ParticleSystem:
   m_ObjectHideFlags: 0
