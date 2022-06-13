@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.45143354, g: 0.5007326, b: 0.57129157, a: 1}
+  m_IndirectSpecularColor: {r: 0.45143384, g: 0.500733, b: 0.571292, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -7681,7 +7681,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d00b3633261aed44ca8ab2a3cb544741, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  AlfieMask:
+  layerMask:
     serializedVersion: 2
     m_Bits: 256
   test: {r: 1, g: 0, b: 0, a: 1}
@@ -7694,7 +7694,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 662170268}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.35, z: 2}
+  m_LocalPosition: {x: 12, y: -1.025, z: -16.32}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 7445201889909153965}
@@ -10511,7 +10511,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timertext: {fileID: 1405271724}
-  timeRemaining: 300
+  timeRemaining: 30
   FlashingRed: {fileID: 1405271727}
   FailScreen: {fileID: 0}
   timeIn: {fileID: 0}
@@ -14100,7 +14100,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2596005197467756485}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: vehicleMotorcycle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14226,7 +14226,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2596005197621092319}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: rig
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14326,7 +14326,7 @@ GameObject:
   - component: {fileID: 2596005198342409677}
   - component: {fileID: 2596005198342409685}
   - component: {fileID: 2596005198342409684}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
@@ -14446,7 +14446,7 @@ GameObject:
   - component: {fileID: 2596005198753275156}
   - component: {fileID: 2596005198753275157}
   - component: {fileID: 2596005198753275162}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14504,7 +14504,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2596005198796243797}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: trails
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14536,7 +14536,7 @@ GameObject:
   - component: {fileID: 2596005199002038956}
   - component: {fileID: 2596005199002038958}
   - component: {fileID: 2596005199002038959}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: smoke
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19461,7 +19461,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2596005199003535973}
   - component: {fileID: 2596005199003535972}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: trailLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19477,7 +19477,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2596005199357431718}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: container
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19495,7 +19495,7 @@ GameObject:
   - component: {fileID: 2596005199357431738}
   - component: {fileID: 2596005199360298896}
   - component: {fileID: 2596005199359331664}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: wheelFrontRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19511,7 +19511,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2596005199357431742}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: model
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19529,7 +19529,7 @@ GameObject:
   - component: {fileID: 2596005199357431776}
   - component: {fileID: 2596005199360299000}
   - component: {fileID: 2596005199359331768}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: tank
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19547,7 +19547,7 @@ GameObject:
   - component: {fileID: 2596005199357431778}
   - component: {fileID: 2596005199360299002}
   - component: {fileID: 2596005199359331770}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: seat
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19565,7 +19565,7 @@ GameObject:
   - component: {fileID: 2596005199357431780}
   - component: {fileID: 2596005199360299004}
   - component: {fileID: 2596005199359331772}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: fenderFront
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19583,7 +19583,7 @@ GameObject:
   - component: {fileID: 2596005199357431782}
   - component: {fileID: 2596005199360299006}
   - component: {fileID: 2596005199359331774}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: fenderBack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19599,7 +19599,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2596005199357431684}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19617,7 +19617,7 @@ GameObject:
   - component: {fileID: 2596005199357431686}
   - component: {fileID: 2596005199360298908}
   - component: {fileID: 2596005199359331676}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: wheelRearRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19635,7 +19635,7 @@ GameObject:
   - component: {fileID: 2596005199357431688}
   - component: {fileID: 2596005199360298976}
   - component: {fileID: 2596005199359331744}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: handle 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19653,7 +19653,7 @@ GameObject:
   - component: {fileID: 2596005199357431690}
   - component: {fileID: 2596005199360298978}
   - component: {fileID: 2596005199359331746}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: handle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19671,7 +19671,7 @@ GameObject:
   - component: {fileID: 2596005199357431696}
   - component: {fileID: 2596005199360298984}
   - component: {fileID: 2596005199359331752}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: bagLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19689,7 +19689,7 @@ GameObject:
   - component: {fileID: 2596005199357431700}
   - component: {fileID: 2596005199360298988}
   - component: {fileID: 2596005199359331756}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: headLight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19707,7 +19707,7 @@ GameObject:
   - component: {fileID: 2596005199357431702}
   - component: {fileID: 2596005199360298990}
   - component: {fileID: 2596005199359331758}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: handleBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19725,7 +19725,7 @@ GameObject:
   - component: {fileID: 2596005199357431704}
   - component: {fileID: 2596005199360298992}
   - component: {fileID: 2596005199359331760}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: exhaustRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19743,7 +19743,7 @@ GameObject:
   - component: {fileID: 2596005199357431706}
   - component: {fileID: 2596005199360298994}
   - component: {fileID: 2596005199359331762}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: exhaustLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19761,7 +19761,7 @@ GameObject:
   - component: {fileID: 2596005199357431708}
   - component: {fileID: 2596005199360298996}
   - component: {fileID: 2596005199359331764}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: engine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19779,7 +19779,7 @@ GameObject:
   - component: {fileID: 2596005199357431710}
   - component: {fileID: 2596005199360298998}
   - component: {fileID: 2596005199359331766}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: bagRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26087,7 +26087,7 @@ GameObject:
   - component: {fileID: 7445201889431714848}
   m_Layer: 0
   m_Name: vehicleBurgor
-  m_TagString: Untagged
+  m_TagString: Capture
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26182,7 +26182,7 @@ GameObject:
   - component: {fileID: 7445201889909153960}
   - component: {fileID: 7445201889909153966}
   - component: {fileID: 7445201889909153964}
-  m_Layer: 2
+  m_Layer: 0
   m_Name: vehicle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
