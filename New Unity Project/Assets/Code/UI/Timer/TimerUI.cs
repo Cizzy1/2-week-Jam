@@ -70,6 +70,7 @@ public class TimerUI : MonoBehaviour
         } else {
             TimerEnd();
         }
+        
         TimeLapsed = Time.timeSinceLevelLoad;
     }
     
