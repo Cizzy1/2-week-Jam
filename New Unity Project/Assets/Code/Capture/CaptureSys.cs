@@ -9,7 +9,7 @@ public class CaptureSys : MonoBehaviour
     float timetoTick = .2f;
     float tickrate = .2f;
     //public Transform pete;
-    //public Transform alfie;
+    public Transform alfie;
     public Text distance;
     public GameObject timerUI;
     public Color test;
@@ -30,6 +30,10 @@ public class CaptureSys : MonoBehaviour
             Debug.Log(hit.collider.name);
             //Debug.Log(hit.collider.gameObject.layer);
         } */
+
+        float dis = Vector3.Distance(transform.position, alfie.position);
+
+        distance.text = dis.ToString("#") + "m";
 
         RaycastHit hit;
         // Does the ray intersect any objects excluding the player layer
