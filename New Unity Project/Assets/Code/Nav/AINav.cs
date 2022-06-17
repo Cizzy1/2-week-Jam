@@ -66,7 +66,7 @@ public class AINav : MonoBehaviour
         if (Physics.Raycast(origin + originOffset, Vector3.down, out slopeHit, maxRayDist, layerMask))
         {
    
-        Debug.DrawLine(origin + originOffset, slopeHit.point, Color.red);
+            //Debug.DrawLine(origin + originOffset, slopeHit.point, Color.red);
 
       
             Quaternion newRot = Quaternion.FromToRotation(objTrans.up, slopeHit.normal)* objTrans.rotation;
